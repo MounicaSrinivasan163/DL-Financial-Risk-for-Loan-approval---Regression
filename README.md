@@ -1,7 +1,6 @@
 # Loan Data Analysis
 
 This project explores a **Loan Dataset** containing 20,000 loan applications with 36 features such as applicant demographics, financials, credit history, loan details, and approval status.  
-The analysis is performed using **Pandas** to answer medium-to-hard level analytical questions.
 
 ---
 
@@ -58,6 +57,8 @@ The dataset consists of **36 columns** capturing applicant details, financial me
 - **Pandas** for data manipulation
 - **Matplotlib / Seaborn** (optional) for visualization
 - **Jupyter Notebook / Colab** for analysis
+- **Pytorch**
+- **Tensorflow**
 
 ---
 
